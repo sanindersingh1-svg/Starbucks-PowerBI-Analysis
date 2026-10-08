@@ -80,7 +80,7 @@ This project demonstrates practical skills in:
 
 ## 📊 Dashboard Preview
 
-![Starbucks Power BI Dashboard](Screenshot 2026-10-08 202126.png)
+![Starbucks Power BI Dashboard](dashboard.png)
 
 ## 👤 Author
 

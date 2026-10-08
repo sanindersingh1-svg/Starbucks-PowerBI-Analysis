@@ -78,9 +78,8 @@ This project demonstrates practical skills in:
 - Data visualization
 - Business-oriented data analysis
 
-## 📊 Dashboard Preview
+![Starbucks Power BI Dashboard](./Screenshot%202026-10-08%20202126.png)
 
-![Starbucks Power BI Dashboard](dashboard.png)
 
 ## 👤 Author
 
